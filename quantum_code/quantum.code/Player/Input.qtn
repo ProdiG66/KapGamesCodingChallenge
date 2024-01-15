@@ -1,0 +1,4 @@
+﻿input{
+    button Deflect;
+    FPVector2 Direction;
+}
